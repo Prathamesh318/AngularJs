@@ -17,7 +17,7 @@ export class UserComponent {
     // @Input() avatar!:string;
 
     // avatar=input<string>();
-    // avatar = input.required<string>();
+    // avatar = input.required<string>()
     // name = input.required<string>()
 
     get imagePath(){
