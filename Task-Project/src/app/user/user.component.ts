@@ -18,7 +18,7 @@ export class UserComponent {
 
     // avatar=input<string>();
     // avatar = input.required<string>();
-    // name = input.required<string>();
+    // name = input.required<string>()
 
     get imagePath(){
 
